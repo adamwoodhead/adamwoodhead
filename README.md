@@ -1,6 +1,6 @@
 # Adam Woodhead
 
-UK-based Laravel/PHP engineer & integration architect. I build reliable API integrations, job/queue-driven automation, and ESB-style systems with a bias for clarity, observability, and maintainable code.
+UK-based Laravel/PHP engineer and integration architect (ex-C#/.NET). I build reliable API integrations, job/queue-driven automation, and ESB-style systems with a bias for clarity, observability, and maintainable code.
 
 ## What I'm working on
 - **Modern Networks ESB** - integration platform with load balancing, AI-assisted workflows, 20+ connected systems, and heavy job/queue execution
@@ -12,8 +12,9 @@ UK-based Laravel/PHP engineer & integration architect. I build reliable API inte
 - Operational sanity: logging, metrics, traceability, and debuggable deployments
 
 ## Tech I use
-Laravel • PHP • MySQL • Redis • Docker • Linux • Nginx  
-Queues/Workers • APIs/Webhooks • ETL-style pipelines • LLM tooling (pragmatic, not gimmicky)
+Laravel - PHP - MySQL - Redis - Docker - Linux - Nginx  
+Queues/Workers - APIs/Webhooks - ETL-style pipelines - LLM tooling (pragmatic, not gimmicky)  
+C#/.NET - WPF (XAML) - MVVM - WinForms
 
 ## Selected work
 - **Modern Networks ESB** - multi-system orchestration, routing, and automation at scale (job/queue-first)
