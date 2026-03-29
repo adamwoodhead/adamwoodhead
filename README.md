@@ -1,30 +1,32 @@
 # Adam Woodhead
 
-UK-based Laravel/PHP engineer and integration architect (ex-C#/.NET). I build reliable API integrations, job/queue-driven automation, and ESB-style systems with a bias for clarity, observability, and maintainable code.
+UK-based Laravel/PHP engineer and integration architect with a background in C#/.NET. I design and build reliable API integrations, queue-driven automation, and ESB-style platforms with a strong bias toward clarity, observability, and maintainable systems.
 
-## What I'm working on
-- **Modern Networks ESB** - integration platform with load balancing, AI-assisted workflows, 20+ connected systems, and heavy job/queue execution
-- **ResTech** - internal platform for my own company: tickets, CRM, documents, finance/accounting, and end-to-end automations
+## Current focus
+- **Modern Networks ESB** — integration platform handling load balancing, AI-assisted workflows, 20+ connected systems, and high-volume job/queue execution
+- **ResTech** — internal platform for my own company, covering tickets, CRM, documents, finance/accounting, and end-to-end business automation
 
 ## Core strengths
-- Designing integration flows that survive real-world failure modes (retries, idempotency, backoff, reconciliation)
-- Building clean, readable Laravel architectures with strong domain boundaries
-- Operational sanity: logging, metrics, traceability, and debuggable deployments
+- Designing integration flows that survive real-world failure modes: retries, idempotency, backoff, and reconciliation
+- Building clean, readable Laravel architectures with strong domain boundaries and operational discipline
+- Creating systems that are observable, debuggable, and practical to support in production
 
-## Tech I use
-Laravel - PHP - MySQL - Redis - Docker - Linux - Nginx  
-Queues/Workers - APIs/Webhooks - ETL-style pipelines - LLM tooling (pragmatic, not gimmicky)  
-C#/.NET - WPF (XAML) - MVVM - WinForms
+## Technologies
+**Primary:** Laravel, PHP, MySQL, Redis, Docker, Linux, Nginx  
+**Patterns & platform work:** Queues/workers, APIs, webhooks, ETL-style pipelines, LLM tooling used pragmatically  
+**Background:** C#/.NET, WPF (XAML), MVVM, WinForms
 
 ## Selected work
-- **Modern Networks ESB** - multi-system orchestration, routing, and automation at scale (job/queue-first)
-- **ResTech** - unified ops platform: tickets, finance, accounting, docs, CRM, automation
+- **Modern Networks ESB** — multi-system orchestration, routing, and automation at scale with a queue-first architecture
+- **ResTech** — unified operations platform spanning tickets, CRM, documents, finance, accounting, and automation
 
-## Principles
-- Build for failure: assume retries, partial outages, and weird data
-- Prefer simple, explicit code over clever abstractions
-- Make it observable: if it breaks, it should be easy to explain why
+## Engineering principles
+- Build for failure: assume retries, partial outages, race conditions, and messy data
+- Prefer explicit, maintainable code over clever abstraction
+- Make systems explainable: if something breaks, it should be easy to trace why
 
-## Contact
-- GitHub: https://github.com/adamwoodhead/
-- LinkedIn: https://www.linkedin.com/in/adam-woodhead/
+## Where to find my work
+- **GitLab:** https://gitlab.restech.cloud
+- **GitHub:** https://github.com/adamwoodhead/  
+  This profile is now intentionally minimal. Active personal and business development has moved to GitLab.
+- **LinkedIn:** https://www.linkedin.com/in/adam-woodhead/
